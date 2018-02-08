@@ -1,6 +1,6 @@
 # MobileNetv2
 
-The caffe inference prototxt for mobilenetv2
+The caffe inference prototxt for mobilenetv2.  
 I will share the trained model soon.
 
 Training details for ImageNet2012 :
