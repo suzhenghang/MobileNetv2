@@ -13,4 +13,6 @@ Training details for ImageNet2012 :
                                    power: 1
                                    momentum: 0.9
                                    weight_decay: 0.00004
+                                  
+ The pytorch version: https://github.com/suzhenghang/MobileNetV2_Pytorch
 
