@@ -16,4 +16,6 @@ Training details for ImageNet2012 :
  
                                   
  The pytorch version: https://github.com/suzhenghang/MobileNetV2_Pytorch
+ 
+ 
  The prototxt of SmallMobileUnet: https://github.com/suzhenghang/MobileNetv2/blob/master/MobileUnet1by2.prototxt
