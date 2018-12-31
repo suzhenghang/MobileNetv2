@@ -19,3 +19,5 @@ Training details for ImageNet2012 :
  
  
  The prototxt of SmallMobileUnet: https://github.com/suzhenghang/MobileNetv2/blob/master/MobileUnet1by2.prototxt
+ 
+ The prototxt of SmallRefineDet_mobilev2_ssdlite: https://github.com/suzhenghang/MobileNetv2/blob/master/SmallRefineDet_mobilev2_ssdlite.prototxt
