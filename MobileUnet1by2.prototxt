@@ -20,7 +20,7 @@ layer {
   top: "label"
   image_data_param {
     root_folder: ""
-    source: "/mnt/data/suzhenghang/MySamba1/MyData/Set24/dataset_from_jiepeng/set_24/trainlist.txt"
+    source: "trainlist.txt"
     label_type: PIXEL
     batch_size: 16
     shuffle: true
@@ -66,7 +66,7 @@ layer {
   top: "label"
   image_data_param {
     root_folder: ""
-    source: "/mnt/data/suzhenghang/MySamba1/MyData/Set24/dataset_from_jiepeng/set_24/vallist.txt"
+    source: "vallist.txt"
     label_type: PIXEL
     batch_size: 1
     shuffle: true
